@@ -1,9 +1,10 @@
-package com.form.registration;
+package com.form.registration.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import com.form.registration.R;
 import com.form.registration.pojo.PersonalInfo;
 import com.form.registration.retrofit.APIClient;
 import com.form.registration.retrofit.APIInterface;
